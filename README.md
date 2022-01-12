@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Samet
+- :books: Isık University
 - 👀 I’m interested in software
 - 🌱 learning new programming languages
 - 💞️ I’m looking to collaborate on software
