@@ -8,6 +8,7 @@
 - [TWITTER]( https://twitter.com/arslnnsamet)
 - [STACKOVERFLOW](https://stackoverflow.com/users/17615120/samet-arslan)
 - [LINKEDIN](https://www.linkedin.com/in/sametarsln/)
+- [MAİL](samet.arslann18@gmail.com)
  
 
 
