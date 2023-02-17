@@ -3,27 +3,13 @@
 
 ### Hi there, I'm Samet <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I love developing Android apps
-- 💬 Ask me about anything, I am happy to help
-- ⚡ Fun fact: Anything is possible if we believe enough
 
 
 ## Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="CSS" src="https://icons8.com/icon/s4lfwDNeTszy/css-filetype"></a>
 
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
